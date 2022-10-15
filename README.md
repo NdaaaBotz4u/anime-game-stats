@@ -4,14 +4,14 @@
 
 <h2>Daily Rewards</h2>
 <table>
-    <tr>
-        <td>Total Rewards Claimed</td>
-        <td>3</td>
-    </tr>
-    <tr>
-        <td>Last Claimed Reward</td>
-        <td>5000 x Mora</td>
-    </tr>
+  <tr>
+    <td>Total Rewards Claimed</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Last Claimed Reward</td>
+    <td>5000 x Mora</td>
+  </tr>
 </table>
 
 <h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.png", height="20"> Stats</h2>
@@ -202,23 +202,31 @@
         </td></tr>
 </table><h2><img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.png", height="20"> Teapot</h2>
 <table>
-    <tr>
-        <td>Level</td>
-        <td>10</td>
-    </tr>
-    <tr>
-        <td>Comfort</td>
-        <td>Stately (14860)</td>
-    </tr>
-    <tr>
-        <td>Items</td>
-        <td>941</td>
-    </tr>
-    <tr>
-        <td>Visitors</td>
-        <td>1</td>
-    </tr>
-</table><h2><img src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png", height="20"> Spiral Abyss</h2>
+  <tr>
+    <td>Level</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Comfort</td>
+    <td>Stately (14860)</td>
+  </tr>
+  <tr>
+    <td>Items</td>
+    <td>941</td>
+  </tr>
+  <tr>
+    <td>Visitors</td>
+    <td>1</td>
+  </tr>
+</table>
+<h2>
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+  Spiral Abyss
+</h2>
 <table>
     <tr>
         <td>Season</td>
