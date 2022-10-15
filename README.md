@@ -1,5 +1,5 @@
 <h1 align="center">Joy's Genshin Stats</h1>
-<h3 align="center">🕒 Updated at <u>Oct             16,             2022             02:48 +0700</u> (🤖automated)</h3>
+<h3 align="center">🕒 Updated at <u>Oct 16, 2022 03:02 +0700</u> (🤖automated)</h3>
 <br>
 
 <h2>Daily Rewards</h2>
@@ -14,7 +14,7 @@
     </tr>
 </table>
 
-<h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp", height="20"> Stats</h2>
+<h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.png", height="20"> Stats</h2>
 <table><tr>
         <td>Achievements</td>
         <td>543</td>
@@ -59,7 +59,7 @@
         <td>42</td>
     </tr></table>
 
-<h2><img src="https://genshin.honeyhunterworld.com/img/icons/map_35.webp", height="20"> Exploration</h2>
+<h2><img src="https://genshin.honeyhunterworld.com/img/icons/map_35.png", height="20"> Exploration</h2>
 <table>
     <tr><th>Sumeru</th><th>The Chasm: Underground Mines</th><th>The Chasm</th><th>Enkanomiya</th><th>Inazuma</th><th>Dragonspine</th><th>Liyue</th><th>Mondstadt</th></tr>
     <tr><td>
@@ -200,7 +200,7 @@
                 </tr>
             </table>
         </td></tr>
-</table><h2><img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp", height="20"> Teapot</h2>
+</table><h2><img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.png", height="20"> Teapot</h2>
 <table>
     <tr>
         <td>Level</td>
@@ -257,14 +257,14 @@
     </tr><tr>
         <td>Elemental Skills Cast</td>
         <td><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png" , height="18"> Kamisato Ayaka (49)<br></td>
-    </tr></table><h2><img src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp" height="20"> Diary</h2>
+    </tr></table><h2><img src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.png" height="20"> Diary</h2>
 <table>
     <tr>
         <td><img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png", height="18"> Primogems earned</td>
         <td>5717 (rate -46)</td>
     </tr>
     <tr>
-        <td><img src="https://genshin.honeyhunterworld.com/img/i_2001_35.webp", height="18"> Mora earned</td>
+        <td><img src="https://genshin.honeyhunterworld.com/img/i_2001_35.png", height="18"> Mora earned</td>
         <td>5510268 (rate -19)</td>
     </tr>
     <tr>
@@ -273,7 +273,7 @@
     </tr>
 </table>
 
-<h2><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="20"> Characters</h2><details open><summary><b>Kaedehara Kazuha</b></summary>
+<h2><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.png", height="20"> Characters</h2><details open><summary><b>Kaedehara Kazuha</b></summary>
     <br/>
     <table>
         <tr>
@@ -297,7 +297,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -367,7 +367,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -437,7 +437,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -507,7 +507,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -577,7 +577,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -647,7 +647,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -717,7 +717,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -787,7 +787,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -857,7 +857,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -927,7 +927,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -997,7 +997,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -1067,7 +1067,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -1137,7 +1137,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -1207,7 +1207,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -1277,7 +1277,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -1347,7 +1347,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -1417,7 +1417,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -1487,7 +1487,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -1557,7 +1557,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -1627,7 +1627,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -1697,7 +1697,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -1767,7 +1767,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -1837,7 +1837,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -1907,7 +1907,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -1977,7 +1977,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -2047,7 +2047,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -2117,7 +2117,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -2187,7 +2187,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -2257,7 +2257,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -2327,7 +2327,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -2397,7 +2397,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -2467,7 +2467,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -2537,7 +2537,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -2607,7 +2607,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -2677,7 +2677,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
@@ -2747,7 +2747,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>

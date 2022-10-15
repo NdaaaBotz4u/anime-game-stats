@@ -14,7 +14,7 @@
     </tr>
 </table>
 
-<h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.webp", height="20"> Stats</h2>
+<h2><img src="https://genshin.honeyhunterworld.com/img/icons/viewpoint_35.png", height="20"> Stats</h2>
 <table>
     {%- for field, value in user.stats.as_dict(lang=lang).items() -%}
     <tr>
@@ -24,7 +24,7 @@
     {%- endfor -%}
 </table>
 
-<h2><img src="https://genshin.honeyhunterworld.com/img/icons/map_35.webp", height="20"> Exploration</h2>
+<h2><img src="https://genshin.honeyhunterworld.com/img/icons/map_35.png", height="20"> Exploration</h2>
 <table>
     <tr>
         {%- for exploration in user.explorations -%}
@@ -61,7 +61,7 @@
 </table>
 
 {%- if user.teapot -%}
-<h2><img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.webp", height="20"> Teapot</h2>
+<h2><img src="https://genshin.honeyhunterworld.com/img/icons/home_world_35.png", height="20"> Teapot</h2>
 <table>
     <tr>
         <td>Level</td>
@@ -118,14 +118,14 @@
 </table>
 {%- endif -%}
 
-<h2><img src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp" height="20"> Diary</h2>
+<h2><img src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.png" height="20"> Diary</h2>
 <table>
     <tr>
         <td><img src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png", height="18"> Primogems earned</td>
         <td>{{ diary.data.current_primogems }} (rate {{ diary.data.primogems_rate }})</td>
     </tr>
     <tr>
-        <td><img src="https://genshin.honeyhunterworld.com/img/i_2001_35.webp", height="18"> Mora earned</td>
+        <td><img src="https://genshin.honeyhunterworld.com/img/i_2001_35.png", height="18"> Mora earned</td>
         <td>{{ diary.data.current_mora }} (rate {{ diary.data.mora_rate }})</td>
     </tr>
     <tr>
@@ -138,7 +138,7 @@
     </tr>
 </table>
 
-<h2><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.webp", height="20"> Characters</h2>
+<h2><img src="https://genshin.honeyhunterworld.com/img/icons/char_35.png", height="20"> Characters</h2>
 {%- for character in user.characters -%}
     {%- if user.characters.index(character) == 0 -%}
         <details open>
@@ -170,7 +170,7 @@
                     </tr>
                     <tr>
                         <td>Element</td>
-                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/{{ character.element.lower() }}_35.webp", height="18"></td>
+                        <td><img src="https://genshin.honeyhunterworld.com/img/icons/element/{{ character.element.lower() }}_35.png", height="18"></td>
                     </tr>
                     <tr>
                         <td>Level</td>
