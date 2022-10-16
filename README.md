@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 16, 2022 21:01 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 16, 2022 21:30 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -324,19 +324,19 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>11</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>9</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>11-3</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>27</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
