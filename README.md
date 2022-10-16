@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 16, 2022 16:28 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 16, 2022 17:13 +0700</u> (🤖automated)
 </h3>
 <br />
 
