@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 16, 2022 22:59 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 16, 2022 23:43 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>6403 (rate -40)</td>
+    <td>6501 (rate -39)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>6275018 (rate -7)</td>
+    <td>6341539 (rate -6)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1797 (29%)<br />Spiral Abyss: 1200 (19%)<br />Events: 1120
-      (17%)<br />Quests: 980 (15%)<br />Daily Activity: 840 (13%)<br />Mail: 450
-      (7%)<br />Other: 16 (0%)<br />
+      Adventure: 1875 (29%)<br />Spiral Abyss: 1200 (19%)<br />Events: 1120
+      (18%)<br />Quests: 1000 (16%)<br />Daily Activity: 840 (12%)<br />Mail:
+      450 (6%)<br />Other: 16 (0%)<br />
     </td>
   </tr>
 </table>
