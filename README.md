@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 16, 2022 18:25 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 16, 2022 18:43 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>478</td>
+    <td>479</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1343</td>
+    <td>1344</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
