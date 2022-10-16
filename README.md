@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 16, 2022 18:55 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 16, 2022 19:51 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -320,71 +320,35 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>55</td>
+    <td>56</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>36</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>12</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-3</td>
+    <td>11-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>36</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
-        ,
-        height="18"
-      />
-      Mona (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (12)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (43)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (97595)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
@@ -392,25 +356,11 @@
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (16)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (49)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>
@@ -1741,7 +1691,7 @@
   <table>
     <tr>
       <th><h3 align="center">Bennett</h3></th>
-      <th><h3 align="center">Dull Blade</h3></th>
+      <th><h3 align="center">Aquila Favonia</h3></th>
     </tr>
     <tr>
       <td>
@@ -1754,7 +1704,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png"
           />
         </p>
       </td>
@@ -1790,21 +1740,21 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Wanderer's Troupe<br />1 x Noblesse Oblige<br />2
-              x Emblem of Severed Fate<br />
+              Artifacts<br />3 x Noblesse Oblige<br />2 x Emblem of Severed
+              Fate<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_4.png"
                 ,
                 height="18"
               />
-              Troupe's Dawnlight<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_2.png"
+              Royal Flora<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_2.png"
                 ,
                 height="18"
               />
-              Bard's Arrow Feather<br /><img
+              Royal Plume<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_5.png"
                 ,
                 height="18"
@@ -1832,15 +1782,15 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Dull Blade</td>
+            <td>Aquila Favonia</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★</td>
+            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>80</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -2108,9 +2058,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Archaic Petra<br />1 x Noblesse Oblige<br />1 x
-              Wanderer's Troupe<br />1 x Emblem of Severed Fate<br />1 x
-              Lavawalker<br />
+              Artifacts<br />1 x Archaic Petra<br />2 x Wanderer's Troupe<br />1
+              x Emblem of Severed Fate<br />1 x Lavawalker<br />
             </td>
             <td>
               <img
@@ -2119,11 +2068,11 @@
                 height="18"
               />
               Flower of Creviced Cliff<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_2.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_2.png"
                 ,
                 height="18"
               />
-              Royal Plume<br /><img
+              Bard's Arrow Feather<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_5.png"
                 ,
                 height="18"
