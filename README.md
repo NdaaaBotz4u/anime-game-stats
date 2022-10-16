@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 16, 2022 21:50 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 16, 2022 22:10 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1364</td>
+    <td>1365</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>5779 (rate -45)</td>
+    <td>6403 (rate -40)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>5800679 (rate -14)</td>
+    <td>6275018 (rate -7)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1773 (31%)<br />Events: 1120 (20%)<br />Quests: 980 (17%)<br />Daily
-      Activity: 840 (15%)<br />Spiral Abyss: 600 (10%)<br />Mail: 450 (7%)<br />Other:
-      16 (0%)<br />
+      Adventure: 1797 (29%)<br />Spiral Abyss: 1200 (19%)<br />Events: 1120
+      (17%)<br />Quests: 980 (15%)<br />Daily Activity: 840 (13%)<br />Mail: 450
+      (7%)<br />Other: 16 (0%)<br />
     </td>
   </tr>
 </table>
