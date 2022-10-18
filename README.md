@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 18, 2022 14:01 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 18, 2022 19:58 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>545</td>
+    <td>547</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>480</td>
+    <td>481</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,23 +59,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1451</td>
+    <td>1474</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1049</td>
+    <td>1055</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>313</td>
+    <td>317</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>131</td>
+    <td>132</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>65</td>
+    <td>67</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -174,12 +174,12 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/40/" width="80" />
+            <img src="https://progress-bar.dev/42/" width="80" />
           </td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -342,6 +342,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
         height="18"
@@ -351,17 +361,7 @@
         ,
         height="18"
       />
-      Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br />
+      Yae Miko (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>6832 (rate -36)</td>
+    <td>7112 (rate -33)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>6571181 (rate -3)</td>
+    <td>6900292 (rate 1)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2006 (30%)<br />Events: 1220 (18%)<br />Spiral Abyss: 1200
-      (18%)<br />Quests: 1020 (15%)<br />Daily Activity: 900 (13%)<br />Mail:
+      Adventure: 2146 (31%)<br />Events: 1300 (19%)<br />Spiral Abyss: 1200
+      (17%)<br />Quests: 1020 (14%)<br />Daily Activity: 960 (13%)<br />Mail:
       470 (6%)<br />Other: 16 (0%)<br />
     </td>
   </tr>
