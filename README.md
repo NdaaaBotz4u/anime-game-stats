@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 21, 2022 19:56 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 22, 2022 01:36 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>8</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -342,6 +342,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -356,12 +361,7 @@
         ,
         height="18"
       />
-      Traveler (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (12)<br />
+      Traveler (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>7599 (rate -28)</td>
+    <td>7948 (rate -25)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>7253768 (rate 6)</td>
+    <td>7505077 (rate 10)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2393 (32%)<br />Events: 1420 (19%)<br />Spiral Abyss: 1200
-      (16%)<br />Daily Activity: 1080 (14%)<br />Quests: 1020 (13%)<br />Mail:
-      470 (6%)<br />Other: 16 (0%)<br />
+      Adventure: 2501 (32%)<br />Events: 1480 (19%)<br />Spiral Abyss: 1200
+      (16%)<br />Quests: 1140 (14%)<br />Daily Activity: 1140 (14%)<br />Mail:
+      470 (5%)<br />Other: 17 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1327,7 +1327,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>9</td>
+            <td>10</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2340,7 +2340,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>8</td>
+            <td>9</td>
           </tr>
           <tr>
             <td>Constellation</td>
