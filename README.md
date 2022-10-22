@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 22, 2022 01:36 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 22, 2022 09:25 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>548</td>
+    <td>551</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>483</td>
+    <td>484</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>178</td>
+    <td>180</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -59,15 +59,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1490</td>
+    <td>1509</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1060</td>
+    <td>1066</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>323</td>
+    <td>324</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>72</td>
+    <td>74</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -174,7 +174,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/43/" width="80" />
+            <img src="https://progress-bar.dev/45/" width="80" />
           </td>
         </tr>
         <tr>
@@ -302,7 +302,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>942</td>
+    <td>952</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -347,6 +347,11 @@
         height="18"
       />
       Yae Miko (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -356,12 +361,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
-        ,
-        height="18"
-      />
-      Traveler (12)<br />
+      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
