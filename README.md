@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 23, 2022 01:32 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 23, 2022 09:36 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>551</td>
+    <td>558</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>484</td>
+    <td>485</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,23 +59,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1509</td>
+    <td>1543</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1066</td>
+    <td>1073</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>324</td>
+    <td>330</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>133</td>
+    <td>134</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>74</td>
+    <td>78</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -174,7 +174,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/45/" width="80" />
+            <img src="https://progress-bar.dev/46/" width="80" />
           </td>
         </tr>
         <tr>
@@ -302,7 +302,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>952</td>
+    <td>953</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -342,11 +342,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
@@ -361,7 +356,12 @@
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
+        ,
+        height="18"
+      />
+      Traveler (12)<br />
     </td>
   </tr>
   <tr>
