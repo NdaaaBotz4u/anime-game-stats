@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 24, 2022 19:58 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 25, 2022 01:42 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fried Radish Balls</td>
   </tr>
 </table>
 
@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>559</td>
+    <td>560</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>486</td>
+    <td>487</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,11 +59,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1569</td>
+    <td>1577</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1077</td>
+    <td>1079</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>80</td>
+    <td>83</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -179,7 +179,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
       </table>
     </td>
@@ -342,6 +342,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -356,12 +361,7 @@
         ,
         height="18"
       />
-      Traveler (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (12)<br />
+      Traveler (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>8723 (rate -18)</td>
+    <td>9224 (rate -13)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>8242859 (rate 21)</td>
+    <td>8545522 (rate 25)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2836 (33%)<br />Events: 1760 (21%)<br />Daily Activity: 1260
-      (15%)<br />Spiral Abyss: 1200 (13%)<br />Quests: 1180 (13%)<br />Mail: 470
-      (5%)<br />Other: 17 (0%)<br />
+      Adventure: 2897 (32%)<br />Events: 1820 (20%)<br />Daily Activity: 1320
+      (15%)<br />Spiral Abyss: 1200 (13%)<br />Quests: 1180 (12%)<br />Mail: 790
+      (8%)<br />Other: 17 (0%)<br />
     </td>
   </tr>
 </table>
