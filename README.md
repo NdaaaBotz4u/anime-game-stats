@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 25, 2022 14:01 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 25, 2022 19:59 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>560</td>
+    <td>561</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>487</td>
+    <td>488</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,11 +59,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1577</td>
+    <td>1580</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1079</td>
+    <td>1080</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -342,6 +342,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
         height="18"
@@ -351,17 +361,7 @@
         ,
         height="18"
       />
-      Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br />
+      Yae Miko (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>9224 (rate -13)</td>
+    <td>9355 (rate -12)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>8571822 (rate 25)</td>
+    <td>8645694 (rate 26)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2897 (32%)<br />Events: 1820 (20%)<br />Daily Activity: 1320
-      (15%)<br />Spiral Abyss: 1200 (13%)<br />Quests: 1180 (12%)<br />Mail: 790
+      Adventure: 2908 (32%)<br />Events: 1880 (21%)<br />Daily Activity: 1380
+      (15%)<br />Spiral Abyss: 1200 (12%)<br />Quests: 1180 (12%)<br />Mail: 790
       (8%)<br />Other: 17 (0%)<br />
     </td>
   </tr>
