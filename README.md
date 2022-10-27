@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 27, 2022 19:54 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 28, 2022 01:33 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>562</td>
+    <td>566</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -59,23 +59,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1595</td>
+    <td>1634</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1085</td>
+    <td>1089</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>330</td>
+    <td>333</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>136</td>
+    <td>138</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>84</td>
+    <td>88</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -174,7 +174,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/51/" width="80" />
+            <img src="https://progress-bar.dev/52/" width="80" />
           </td>
         </tr>
         <tr>
@@ -298,11 +298,11 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Stately (14860)</td>
+    <td>Luxury (15790)</td>
   </tr>
   <tr>
     <td>Items</td>
-    <td>953</td>
+    <td>960</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>9596 (rate -10)</td>
+    <td>9953 (rate -6)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>8846323 (rate 29)</td>
+    <td>9283018 (rate 36)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 3029 (32%)<br />Events: 1940 (21%)<br />Daily Activity: 1440
-      (15%)<br />Spiral Abyss: 1200 (12%)<br />Quests: 1180 (12%)<br />Mail: 790
-      (8%)<br />Other: 17 (0%)<br />
+      Adventure: 3246 (33%)<br />Events: 2000 (21%)<br />Daily Activity: 1500
+      (16%)<br />Spiral Abyss: 1200 (12%)<br />Quests: 1180 (11%)<br />Mail: 790
+      (7%)<br />Other: 37 (0%)<br />
     </td>
   </tr>
 </table>
