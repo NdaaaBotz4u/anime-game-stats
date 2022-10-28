@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 28, 2022 09:26 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 28, 2022 13:31 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>490</td>
+    <td>491</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,11 +59,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1634</td>
+    <td>1645</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1089</td>
+    <td>1090</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -174,7 +174,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/52/" width="80" />
+            <img src="https://progress-bar.dev/53/" width="80" />
           </td>
         </tr>
         <tr>
@@ -342,6 +342,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
         height="18"
@@ -356,12 +361,7 @@
         ,
         height="18"
       />
-      Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br />
+      Yelan (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>9953 (rate -6)</td>
+    <td>10000 (rate -6)</td>
   </tr>
   <tr>
     <td>
@@ -448,12 +448,12 @@
       />
       Mora earned
     </td>
-    <td>9283018 (rate 36)</td>
+    <td>9324200 (rate 36)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 3246 (33%)<br />Events: 2000 (21%)<br />Daily Activity: 1500
+      Adventure: 3273 (33%)<br />Events: 2000 (21%)<br />Daily Activity: 1520
       (16%)<br />Spiral Abyss: 1200 (12%)<br />Quests: 1180 (11%)<br />Mail: 790
       (7%)<br />Other: 37 (0%)<br />
     </td>
