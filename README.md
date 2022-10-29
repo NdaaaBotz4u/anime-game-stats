@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 29, 2022 01:29 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 29, 2022 09:06 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1645</td>
+    <td>1661</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>88</td>
+    <td>89</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -174,7 +174,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/53/" width="80" />
+            <img src="https://progress-bar.dev/56/" width="80" />
           </td>
         </tr>
         <tr>
@@ -202,7 +202,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/91/" width="80" />
+            <img src="https://progress-bar.dev/98/" width="80" />
           </td>
         </tr>
         <tr>
@@ -342,11 +342,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -361,7 +356,12 @@
         ,
         height="18"
       />
-      Traveler (12)<br />
+      Traveler (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>10053 (rate -5)</td>
+    <td>10077 (rate -5)</td>
   </tr>
   <tr>
     <td>
@@ -448,12 +448,12 @@
       />
       Mora earned
     </td>
-    <td>9356146 (rate 37)</td>
+    <td>9435148 (rate 38)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 3286 (33%)<br />Events: 2000 (20%)<br />Daily Activity: 1560
+      Adventure: 3310 (33%)<br />Events: 2000 (20%)<br />Daily Activity: 1560
       (16%)<br />Spiral Abyss: 1200 (12%)<br />Quests: 1180 (12%)<br />Mail: 790
       (7%)<br />Other: 37 (0%)<br />
     </td>
