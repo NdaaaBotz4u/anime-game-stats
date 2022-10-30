@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 30, 2022 13:29 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 30, 2022 19:45 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>491</td>
+    <td>492</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -298,7 +298,7 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Luxury (15790)</td>
+    <td>Luxury (15880)</td>
   </tr>
   <tr>
     <td>Items</td>
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
+        ,
+        height="18"
+      />
+      Traveler (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
       Yae Miko (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
-        ,
-        height="18"
-      />
-      Traveler (12)<br />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
