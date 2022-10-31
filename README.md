@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 31, 2022 13:31 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 31, 2022 19:53 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -302,7 +302,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>960</td>
+    <td>962</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -342,16 +342,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerGirl.png"
         ,
         height="18"
@@ -361,7 +351,17 @@
         ,
         height="18"
       />
-      Yae Miko (12)<br />
+      Yae Miko (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>10237 (rate -4)</td>
+    <td>10246 (rate -4)</td>
   </tr>
   <tr>
     <td>
@@ -448,12 +448,12 @@
       />
       Mora earned
     </td>
-    <td>9716161 (rate 42)</td>
+    <td>9719302 (rate 42)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 3320 (33%)<br />Events: 2000 (20%)<br />Daily Activity: 1680
+      Adventure: 3329 (33%)<br />Events: 2000 (20%)<br />Daily Activity: 1680
       (17%)<br />Quests: 1210 (12%)<br />Spiral Abyss: 1200 (11%)<br />Mail: 790
       (7%)<br />Other: 37 (0%)<br />
     </td>
@@ -1995,7 +1995,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>6</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>
