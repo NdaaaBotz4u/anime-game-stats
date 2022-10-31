@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 31, 2022 19:53 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 01, 2022 01:32 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1668</td>
+    <td>1669</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -302,7 +302,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>962</td>
+    <td>964</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>10246 (rate -4)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>9719302 (rate 42)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 3329 (33%)<br />Events: 2000 (20%)<br />Daily Activity: 1680
-      (17%)<br />Quests: 1210 (12%)<br />Spiral Abyss: 1200 (11%)<br />Mail: 790
-      (7%)<br />Other: 37 (0%)<br />
+      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
+      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
