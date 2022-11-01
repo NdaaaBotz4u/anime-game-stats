@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 01, 2022 13:35 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 01, 2022 19:56 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1669</td>
+    <td>1674</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>89</td>
+    <td>90</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
