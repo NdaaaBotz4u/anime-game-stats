@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 02, 2022 19:54 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 03, 2022 01:30 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>572</td>
+    <td>578</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -59,11 +59,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1674</td>
+    <td>1676</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1091</td>
+    <td>1093</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
       Sucrose (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Yelan (12)<br />
+      Yae Miko (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>1396 (rate -86)</td>
+    <td>1538 (rate -85)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>824931 (rate -91)</td>
+    <td>916114 (rate -90)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (43%)<br />Mail: 600 (43%)<br />Daily Activity: 120
-      (9%)<br />Adventure: 55 (4%)<br />Other: 21 (1%)<br />Events: 0 (0%)<br />Quests:
+      Mail: 660 (43%)<br />Spiral Abyss: 600 (40%)<br />Daily Activity: 120
+      (8%)<br />Adventure: 77 (5%)<br />Quests: 60 (3%)<br />Other: 21 (1%)<br />Events:
       0 (0%)<br />
     </td>
   </tr>
