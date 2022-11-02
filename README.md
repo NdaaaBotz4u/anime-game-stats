@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 02, 2022 13:34 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 02, 2022 19:54 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>1310 (rate -87)</td>
+    <td>1396 (rate -86)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>683996 (rate -92)</td>
+    <td>824931 (rate -91)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (46%)<br />Mail: 600 (46%)<br />Daily Activity: 60
-      (5%)<br />Adventure: 50 (3%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (43%)<br />Mail: 600 (43%)<br />Daily Activity: 120
+      (9%)<br />Adventure: 55 (4%)<br />Other: 21 (1%)<br />Events: 0 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
@@ -974,7 +974,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>40</td>
+            <td>50</td>
           </tr>
           <tr>
             <td>Friendship</td>
