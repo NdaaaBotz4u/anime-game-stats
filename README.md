@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 03, 2022 19:49 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 04, 2022 01:35 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>578</td>
+    <td>580</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>495</td>
+    <td>496</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -302,7 +302,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>964</td>
+    <td>965</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -357,11 +357,11 @@
         height="18"
       />
       Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Yae Miko (12)<br />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>1603 (rate -84)</td>
+    <td>1770 (rate -82)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>1018789 (rate -89)</td>
+    <td>1289608 (rate -86)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 660 (42%)<br />Spiral Abyss: 600 (38%)<br />Daily Activity: 120
-      (8%)<br />Adventure: 112 (6%)<br />Quests: 90 (5%)<br />Other: 21 (1%)<br />Events:
-      0 (0%)<br />
+      Mail: 660 (38%)<br />Spiral Abyss: 600 (34%)<br />Daily Activity: 180
+      (11%)<br />Adventure: 159 (8%)<br />Quests: 150 (8%)<br />Other: 21
+      (1%)<br />Events: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -523,15 +523,15 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />4 x Deepwood Memories<br />1 x Gilded Dreams<br />
+              Artifacts<br />1 x Gilded Dreams<br />4 x Deepwood Memories<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_4.png"
                 ,
                 height="18"
               />
-              Labyrinth Wayfarer<br /><img
+              Dreaming Steelbloom<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_2.png"
                 ,
                 height="18"
@@ -547,11 +547,11 @@
                 height="18"
               />
               Lamp of the Lost<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_3.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_3.png"
                 ,
                 height="18"
               />
-              Shadow of the Sand King<br />
+              Laurel Coronet<br />
             </td>
           </tr>
           <tr>
@@ -974,11 +974,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>60</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2100,7 +2100,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>3</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>
@@ -2534,7 +2534,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>3</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -2575,7 +2575,7 @@
   <table>
     <tr>
       <th><h3 align="center">Diona</h3></th>
-      <th><h3 align="center">Favonius Warbow</h3></th>
+      <th><h3 align="center">End of the Line</h3></th>
     </tr>
     <tr>
       <td>
@@ -2588,7 +2588,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fin.png"
           />
         </p>
       </td>
@@ -2667,7 +2667,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Favonius Warbow</td>
+            <td>End of the Line</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2675,11 +2675,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>80</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
         </table>
       </td>
@@ -3965,7 +3965,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
