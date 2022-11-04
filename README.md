@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 04, 2022 09:13 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 04, 2022 13:31 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -342,16 +342,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
       Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      Sucrose (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -515,7 +515,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -572,7 +572,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>20</td>
+            <td>80</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -1036,7 +1036,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>80</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -3128,7 +3128,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
         </table>
       </td>
@@ -3244,7 +3244,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -3907,7 +3907,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
         </table>
       </td>
