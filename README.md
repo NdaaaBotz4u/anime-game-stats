@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 04, 2022 01:35 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 04, 2022 09:13 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>580</td>
+    <td>586</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>496</td>
+    <td>497</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,15 +59,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1676</td>
+    <td>1691</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1093</td>
+    <td>1099</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>334</td>
+    <td>335</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -342,11 +342,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br /><img
+      Yae Miko (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>1770 (rate -82)</td>
+    <td>1943 (rate -81)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>1289608 (rate -86)</td>
+    <td>1521047 (rate -84)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 660 (38%)<br />Spiral Abyss: 600 (34%)<br />Daily Activity: 180
-      (11%)<br />Adventure: 159 (8%)<br />Quests: 150 (8%)<br />Other: 21
+      Mail: 680 (35%)<br />Spiral Abyss: 600 (31%)<br />Daily Activity: 240
+      (13%)<br />Adventure: 232 (12%)<br />Quests: 170 (8%)<br />Other: 21
       (1%)<br />Events: 0 (0%)<br />
     </td>
   </tr>
