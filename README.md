@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 05, 2022 01:28 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 05, 2022 09:04 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>586</td>
+    <td>594</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>497</td>
+    <td>498</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,23 +59,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1691</td>
+    <td>1740</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1099</td>
+    <td>1119</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>335</td>
+    <td>346</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>139</td>
+    <td>147</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>90</td>
+    <td>103</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -174,7 +174,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/57/" width="80" />
+            <img src="https://progress-bar.dev/62/" width="80" />
           </td>
         </tr>
         <tr>
@@ -188,7 +188,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/95/" width="80" />
+            <img src="https://progress-bar.dev/96/" width="80" />
           </td>
         </tr>
         <tr>
@@ -202,7 +202,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/98/" width="80" />
+            <img src="https://progress-bar.dev/99/" width="80" />
           </td>
         </tr>
         <tr>
@@ -302,7 +302,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>965</td>
+    <td>977</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -342,6 +342,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      Sucrose (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -352,11 +357,6 @@
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>1943 (rate -81)</td>
+    <td>2584 (rate -74)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>1521047 (rate -84)</td>
+    <td>1818407 (rate -81)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 680 (35%)<br />Spiral Abyss: 600 (31%)<br />Daily Activity: 240
-      (13%)<br />Adventure: 232 (12%)<br />Quests: 170 (8%)<br />Other: 21
-      (1%)<br />Events: 0 (0%)<br />
+      Mail: 680 (27%)<br />Spiral Abyss: 600 (24%)<br />Adventure: 493 (20%)<br />Quests:
+      370 (14%)<br />Daily Activity: 300 (11%)<br />Events: 120 (4%)<br />Other:
+      21 (0%)<br />
     </td>
   </tr>
 </table>
