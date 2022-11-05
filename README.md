@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 05, 2022 09:04 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 05, 2022 13:28 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -59,11 +59,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1740</td>
+    <td>1741</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1119</td>
+    <td>1120</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Sucrose (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
+      Yae Miko (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Bennett (12)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      Sucrose (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>2584 (rate -74)</td>
+    <td>2868 (rate -72)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>1818407 (rate -81)</td>
+    <td>2147085 (rate -77)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 680 (27%)<br />Spiral Abyss: 600 (24%)<br />Adventure: 493 (20%)<br />Quests:
-      370 (14%)<br />Daily Activity: 300 (11%)<br />Events: 120 (4%)<br />Other:
+      Adventure: 777 (28%)<br />Mail: 680 (24%)<br />Spiral Abyss: 600 (21%)<br />Quests:
+      370 (13%)<br />Daily Activity: 300 (10%)<br />Events: 120 (4%)<br />Other:
       21 (0%)<br />
     </td>
   </tr>
@@ -523,15 +523,15 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Gilded Dreams<br />4 x Deepwood Memories<br />
+              Artifacts<br />4 x Deepwood Memories<br />1 x Gilded Dreams<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_4.png"
                 ,
                 height="18"
               />
-              Dreaming Steelbloom<br /><img
+              Labyrinth Wayfarer<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_2.png"
                 ,
                 height="18"
@@ -542,11 +542,11 @@
                 height="18"
               />
               A Time of Insight<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_1.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_1.png"
                 ,
                 height="18"
               />
-              Lamp of the Lost<br /><img
+              Honeyed Final Feast<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_3.png"
                 ,
                 height="18"
@@ -978,7 +978,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2679,7 +2679,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
