@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 07, 2022 09:03 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 07, 2022 13:31 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>595</td>
+    <td>597</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>499</td>
+    <td>500</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,15 +59,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1741</td>
+    <td>1759</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1120</td>
+    <td>1125</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>347</td>
+    <td>348</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -258,7 +258,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/87/" width="80" />
+            <img src="https://progress-bar.dev/88/" width="80" />
           </td>
         </tr>
         <tr>
@@ -302,7 +302,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1068</td>
+    <td>1106</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Yae Miko (12)<br /><img
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br />
+      Yae Miko (12)<br />
     </td>
   </tr>
   <tr>
