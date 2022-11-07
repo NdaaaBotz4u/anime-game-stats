@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 07, 2022 01:27 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 07, 2022 09:03 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>594</td>
+    <td>595</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>346</td>
+    <td>347</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -302,7 +302,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1039</td>
+    <td>1068</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -342,6 +342,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -352,11 +357,6 @@
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      Sucrose (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>3028 (rate -70)</td>
+    <td>3295 (rate -67)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>2266389 (rate -76)</td>
+    <td>2744347 (rate -71)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 777 (26%)<br />Mail: 680 (23%)<br />Spiral Abyss: 600 (20%)<br />Quests:
-      410 (14%)<br />Daily Activity: 360 (12%)<br />Events: 180 (5%)<br />Other:
+      Adventure: 814 (25%)<br />Mail: 680 (21%)<br />Spiral Abyss: 600 (19%)<br />Quests:
+      560 (17%)<br />Daily Activity: 400 (12%)<br />Events: 220 (6%)<br />Other:
       21 (0%)<br />
     </td>
   </tr>
@@ -978,7 +978,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Constellation</td>
