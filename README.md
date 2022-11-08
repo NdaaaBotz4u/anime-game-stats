@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 08, 2022 09:02 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 08, 2022 13:31 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -342,6 +342,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      Sucrose (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -352,16 +357,11 @@
         height="18"
       />
       Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      Sucrose (12)<br />
+      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
@@ -523,15 +523,15 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />4 x Deepwood Memories<br />1 x Gilded Dreams<br />
+              Artifacts<br />1 x Wanderer's Troupe<br />4 x Deepwood Memories<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_4.png"
                 ,
                 height="18"
               />
-              Labyrinth Wayfarer<br /><img
+              Troupe's Dawnlight<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_2.png"
                 ,
                 height="18"
@@ -542,11 +542,11 @@
                 height="18"
               />
               A Time of Insight<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_1.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_1.png"
                 ,
                 height="18"
               />
-              Honeyed Final Feast<br /><img
+              Lamp of the Lost<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_3.png"
                 ,
                 height="18"
@@ -1988,16 +1988,16 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Gladiator's Finale<br />1 x Tenacity of the
-              Millelith<br />3 x Blizzard Strayer<br />
+              Artifacts<br />4 x Blizzard Strayer<br />1 x Tenacity of the
+              Millelith<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_4.png"
                 ,
                 height="18"
               />
-              Gladiator's Nostalgia<br /><img
+              Snowswept Memory<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_2.png"
                 ,
                 height="18"
@@ -2957,17 +2957,17 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Blizzard Strayer<br />1 x Tenacity of the
+              Artifacts<br />1 x Gladiator's Finale<br />1 x Tenacity of the
               Millelith<br />1 x Emblem of Severed Fate<br />2 x Maiden
               Beloved<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_4.png"
                 ,
                 height="18"
               />
-              Snowswept Memory<br /><img
+              Gladiator's Nostalgia<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_2.png"
                 ,
                 height="18"
