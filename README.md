@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 08, 2022 01:28 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 08, 2022 09:02 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>597</td>
+    <td>601</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>500</td>
+    <td>501</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,11 +59,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1759</td>
+    <td>1761</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1125</td>
+    <td>1133</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -179,7 +179,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>7</td>
+          <td>8</td>
         </tr>
       </table>
     </td>
@@ -342,6 +342,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
@@ -351,17 +361,7 @@
         ,
         height="18"
       />
-      Sucrose (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br />
+      Sucrose (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>3295 (rate -67)</td>
+    <td>3749 (rate -63)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>2744347 (rate -71)</td>
+    <td>3148687 (rate -67)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 814 (25%)<br />Mail: 680 (21%)<br />Spiral Abyss: 600 (19%)<br />Quests:
-      560 (17%)<br />Daily Activity: 400 (12%)<br />Events: 220 (6%)<br />Other:
+      Adventure: 878 (24%)<br />Mail: 680 (19%)<br />Quests: 650 (17%)<br />Spiral
+      Abyss: 600 (16%)<br />Events: 460 (12%)<br />Daily Activity: 460 (12%)<br />Other:
       21 (0%)<br />
     </td>
   </tr>
