@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 09, 2022 09:14 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 09, 2022 13:35 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>601</td>
+    <td>603</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>501</td>
+    <td>502</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -63,11 +63,11 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1133</td>
+    <td>1134</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>348</td>
+    <td>349</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -202,7 +202,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/99/" width="80" />
+            <img src="https://progress-bar.dev/100/" width="80" />
           </td>
         </tr>
         <tr>
@@ -302,7 +302,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1106</td>
+    <td>1110</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -342,11 +342,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      Sucrose (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
@@ -361,7 +356,12 @@
         ,
         height="18"
       />
-      Bennett (12)<br />
+      Bennett (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      Sucrose (12)<br />
     </td>
   </tr>
   <tr>
