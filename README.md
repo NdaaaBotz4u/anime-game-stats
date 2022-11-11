@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 11, 2022 13:33 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 11, 2022 19:51 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>503</td>
+    <td>504</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
-      Bennett (12)<br /><img
+      Sucrose (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
-        ,
-        height="18"
-      />
-      Sucrose (12)<br />
+      Bennett (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>4254 (rate -58)</td>
+    <td>4544 (rate -55)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>3711784 (rate -61)</td>
+    <td>4051509 (rate -58)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 903 (22%)<br />Events: 790 (19%)<br />Quests: 680 (16%)<br />Mail:
-      680 (16%)<br />Spiral Abyss: 600 (14%)<br />Daily Activity: 580 (13%)<br />Other:
+      Events: 1000 (23%)<br />Adventure: 903 (20%)<br />Mail: 700 (16%)<br />Quests:
+      680 (14%)<br />Daily Activity: 640 (14%)<br />Spiral Abyss: 600 (13%)<br />Other:
       21 (0%)<br />
     </td>
   </tr>
