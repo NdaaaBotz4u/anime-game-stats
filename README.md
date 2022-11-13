@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 13, 2022 19:42 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 14, 2022 01:27 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Bennett (12)<br /><img
+      Yae Miko (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
       Sucrose (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Yelan (12)<br />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>4628 (rate -54)</td>
+    <td>5057 (rate -50)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>4116566 (rate -57)</td>
+    <td>4589496 (rate -52)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1000 (22%)<br />Adventure: 927 (21%)<br />Daily Activity: 700
-      (16%)<br />Mail: 700 (15%)<br />Quests: 680 (14%)<br />Spiral Abyss: 600
-      (12%)<br />Other: 21 (0%)<br />
+      Events: 1300 (26%)<br />Adventure: 976 (20%)<br />Daily Activity: 760
+      (16%)<br />Quests: 700 (14%)<br />Mail: 700 (13%)<br />Spiral Abyss: 600
+      (11%)<br />Other: 21 (0%)<br />
     </td>
   </tr>
 </table>
@@ -572,7 +572,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>80</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
