@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 14, 2022 01:27 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 14, 2022 08:59 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>605</td>
+    <td>607</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -59,15 +59,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1764</td>
+    <td>1765</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1139</td>
+    <td>1140</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>349</td>
+    <td>350</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -230,7 +230,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/96/" width="80" />
+            <img src="https://progress-bar.dev/97/" width="80" />
           </td>
         </tr>
         <tr>
@@ -347,21 +347,21 @@
         height="18"
       />
       Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
       Sucrose (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br />
+      Bennett (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br />
     </td>
   </tr>
   <tr>
