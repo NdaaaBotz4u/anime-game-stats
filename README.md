@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 15, 2022 01:28 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 15, 2022 08:58 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>506</td>
+    <td>507</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
         ,
         height="18"
       />
-      Sucrose (12)<br />
+      Sucrose (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>5057 (rate -50)</td>
+    <td>5127 (rate -50)</td>
   </tr>
   <tr>
     <td>
@@ -448,12 +448,12 @@
       />
       Mora earned
     </td>
-    <td>4589496 (rate -52)</td>
+    <td>4637333 (rate -52)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1300 (26%)<br />Adventure: 976 (20%)<br />Daily Activity: 760
+      Events: 1300 (26%)<br />Adventure: 986 (20%)<br />Daily Activity: 820
       (16%)<br />Quests: 700 (14%)<br />Mail: 700 (13%)<br />Spiral Abyss: 600
       (11%)<br />Other: 21 (0%)<br />
     </td>
