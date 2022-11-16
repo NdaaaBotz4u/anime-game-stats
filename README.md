@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 16, 2022 01:27 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 16, 2022 08:58 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>5127 (rate -50)</td>
+    <td>5337 (rate -48)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>4637333 (rate -52)</td>
+    <td>5128860 (rate -47)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1300 (26%)<br />Adventure: 986 (20%)<br />Daily Activity: 820
-      (16%)<br />Quests: 700 (14%)<br />Mail: 700 (13%)<br />Spiral Abyss: 600
+      Events: 1450 (28%)<br />Adventure: 986 (19%)<br />Daily Activity: 880
+      (16%)<br />Quests: 700 (13%)<br />Mail: 700 (13%)<br />Spiral Abyss: 600
       (11%)<br />Other: 21 (0%)<br />
     </td>
   </tr>
@@ -515,7 +515,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -3136,6 +3136,123 @@
   </table>
 </details>
 <details>
+  <summary><b>Amber</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Amber</h3></th>
+      <th><h3 align="center">Blackcliff Warbow</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Blackrock.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>9</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />1 x Gladiator's Finale<br />1 x Wanderer's
+              Troupe<br />1 x Shimenawa's Reminiscence<br />2 x Heart of
+              Depth<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_4.png"
+                ,
+                height="18"
+              />
+              Gladiator's Nostalgia<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_2.png"
+                ,
+                height="18"
+              />
+              Bard's Arrow Feather<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_5.png"
+                ,
+                height="18"
+              />
+              Morning Dew's Moment<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_1.png"
+                ,
+                height="18"
+              />
+              Goblet of Thundering Deep<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_3.png"
+                ,
+                height="18"
+              />
+              Wine-Stained Tricorne<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td>100% Outrider</td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Blackcliff Warbow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Sayu</b></summary>
   <br />
   <table>
@@ -3252,123 +3369,6 @@
   </table>
 </details>
 <details>
-  <summary><b>Amber</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Amber</h3></th>
-      <th><h3 align="center">Blackcliff Warbow</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Blackrock.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png"
-                ,
-                height="18"
-              />
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>8</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />1 x Gladiator's Finale<br />1 x Wanderer's
-              Troupe<br />1 x Shimenawa's Reminiscence<br />2 x Heart of
-              Depth<br />
-            </td>
-            <td>
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_4.png"
-                ,
-                height="18"
-              />
-              Gladiator's Nostalgia<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_2.png"
-                ,
-                height="18"
-              />
-              Bard's Arrow Feather<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_5.png"
-                ,
-                height="18"
-              />
-              Morning Dew's Moment<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_1.png"
-                ,
-                height="18"
-              />
-              Goblet of Thundering Deep<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_3.png"
-                ,
-                height="18"
-              />
-              Wine-Stained Tricorne<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td>100% Outrider</td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Blackcliff Warbow</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
   <summary><b>Kujou Sara</b></summary>
   <br />
   <table>
@@ -3478,6 +3478,92 @@
           <tr>
             <td>Refinement</td>
             <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Lisa</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Lisa</h3></th>
+      <th><h3 align="center">Favonius Codex</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Lisa.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Favonius Codex</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
@@ -3650,92 +3736,6 @@
           <tr>
             <td>Refinement</td>
             <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Lisa</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Lisa</h3></th>
-      <th><h3 align="center">Favonius Codex</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Lisa.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Zephyrus.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png"
-                ,
-                height="18"
-              />
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>50</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>2</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Artifacts<br /></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Favonius Codex</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>5</td>
           </tr>
         </table>
       </td>
@@ -4047,7 +4047,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>7</td>
+            <td>8</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -4437,6 +4437,92 @@
           <tr>
             <td>Level</td>
             <td>1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Dori</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Dori</h3></th>
+      <th><h3 align="center">The Bell</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dori.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Troupe.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/electro_35.png"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>The Bell</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>20</td>
           </tr>
           <tr>
             <td>Refinement</td>
