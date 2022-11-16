@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 16, 2022 19:44 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 17, 2022 01:27 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>607</td>
+    <td>608</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>508</td>
+    <td>509</td>
   </tr>
   <tr>
     <td>Characters</td>
