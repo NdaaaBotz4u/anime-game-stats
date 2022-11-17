@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 17, 2022 19:47 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 18, 2022 01:26 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -320,7 +320,7 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>57</td>
+    <td>58</td>
   </tr>
   <tr>
     <td>Total Battles</td>
@@ -342,37 +342,37 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
-      Bennett (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (12)<br /><img
+      Yoimiya (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Sucrose (12)<br />
+      Yae Miko (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (40)<br />
+      Nahida (43)<br />
     </td>
   </tr>
   <tr>
@@ -383,29 +383,29 @@
         ,
         height="18"
       />
-      Raiden Shogun (89510)<br />
+      Raiden Shogun (112641)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (41153)<br />
+      Nahida (67450)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Raiden Shogun (28)<br />
+      Kaedehara Kazuha (23)<br />
     </td>
   </tr>
   <tr>
@@ -416,7 +416,7 @@
         ,
         height="18"
       />
-      Yae Miko (76)<br />
+      Yae Miko (84)<br />
     </td>
   </tr>
 </table>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>5417 (rate -47)</td>
+    <td>6167 (rate -39)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>5168645 (rate -46)</td>
+    <td>5881527 (rate -39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1450 (27%)<br />Adventure: 1006 (19%)<br />Daily Activity: 940
-      (18%)<br />Quests: 700 (13%)<br />Mail: 700 (12%)<br />Spiral Abyss: 600
-      (11%)<br />Other: 21 (0%)<br />
+      Events: 1540 (25%)<br />Spiral Abyss: 1200 (20%)<br />Adventure: 1006
+      (17%)<br />Daily Activity: 1000 (16%)<br />Quests: 700 (11%)<br />Mail:
+      700 (11%)<br />Other: 21 (0%)<br />
     </td>
   </tr>
 </table>
@@ -978,7 +978,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Constellation</td>
