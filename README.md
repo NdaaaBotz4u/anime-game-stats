@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 18, 2022 13:28 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 18, 2022 19:41 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
+      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
       Yoimiya (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Nahida (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>6167 (rate -39)</td>
+    <td>6379 (rate -37)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>5881527 (rate -39)</td>
+    <td>6013712 (rate -38)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1540 (25%)<br />Spiral Abyss: 1200 (20%)<br />Adventure: 1006
-      (17%)<br />Daily Activity: 1000 (16%)<br />Quests: 700 (11%)<br />Mail:
-      700 (11%)<br />Other: 21 (0%)<br />
+      Events: 1670 (27%)<br />Spiral Abyss: 1200 (19%)<br />Daily Activity: 1060
+      (17%)<br />Adventure: 1008 (16%)<br />Mail: 720 (11%)<br />Quests: 700
+      (10%)<br />Other: 21 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1987,10 +1987,7 @@
             <td>4</td>
           </tr>
           <tr>
-            <td>
-              Artifacts<br />4 x Blizzard Strayer<br />1 x Tenacity of the
-              Millelith<br />
-            </td>
+            <td>Artifacts<br />4 x Blizzard Strayer<br /></td>
             <td>
               <img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_4.png"
@@ -1998,11 +1995,6 @@
                 height="18"
               />
               Snowswept Memory<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_2.png"
-                ,
-                height="18"
-              />
-              Ceremonial War-Plume<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_5.png"
                 ,
                 height="18"
@@ -2624,17 +2616,17 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Tenacity of the Millelith<br />1 x Blizzard
+              Artifacts<br />1 x Shimenawa's Reminiscence<br />1 x Blizzard
               Strayer<br />1 x Heart of Depth<br />1 x Gladiator's Finale<br />1
               x Retracing Bolide<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_4.png"
                 ,
                 height="18"
               />
-              Flower of Accolades<br /><img
+              Entangling Bloom<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14001_2.png"
                 ,
                 height="18"
@@ -4609,6 +4601,104 @@
           <tr>
             <td>Level</td>
             <td>20</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Layla</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Layla</h3></th>
+      <th><h3 align="center">Favonius Sword</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Layla.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br />2 x Tenacity of the Millelith<br /></td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_4.png"
+                ,
+                height="18"
+              />
+              Flower of Accolades<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_2.png"
+                ,
+                height="18"
+              />
+              Ceremonial War-Plume<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Favonius Sword</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
