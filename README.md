@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 19, 2022 19:38 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 20, 2022 01:25 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fisherman's Toast</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+      Nahida (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br /><img
+      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Yoimiya (12)<br />
+      Yae Miko (12)<br />
     </td>
   </tr>
   <tr>
@@ -4096,6 +4096,104 @@
   </table>
 </details>
 <details>
+  <summary><b>Layla</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Layla</h3></th>
+      <th><h3 align="center">Favonius Sword</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Layla.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br />2 x Tenacity of the Millelith<br /></td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_4.png"
+                ,
+                height="18"
+              />
+              Flower of Accolades<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_2.png"
+                ,
+                height="18"
+              />
+              Ceremonial War-Plume<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Favonius Sword</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Aloy</b></summary>
   <br />
   <table>
@@ -4601,104 +4699,6 @@
           <tr>
             <td>Level</td>
             <td>20</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Layla</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Layla</h3></th>
-      <th><h3 align="center">Favonius Sword</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Layla.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png"
-                ,
-                height="18"
-              />
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>20</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts<br />2 x Tenacity of the Millelith<br /></td>
-            <td>
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_4.png"
-                ,
-                height="18"
-              />
-              Flower of Accolades<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_2.png"
-                ,
-                height="18"
-              />
-              Ceremonial War-Plume<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Favonius Sword</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
           </tr>
           <tr>
             <td>Refinement</td>
