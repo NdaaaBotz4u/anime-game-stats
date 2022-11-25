@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 25, 2022 13:26 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 25, 2022 19:39 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>517</td>
+    <td>518</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1769</td>
+    <td>1772</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        ,
+        height="18"
+      />
+      Yoimiya (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>6983 (rate -32)</td>
+    <td>7150 (rate -30)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>6652011 (rate -31)</td>
+    <td>6721246 (rate -30)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1910 (28%)<br />Daily Activity: 1420 (21%)<br />Spiral Abyss: 1200
-      (17%)<br />Adventure: 1012 (14%)<br />Mail: 720 (10%)<br />Quests: 700
-      (10%)<br />Other: 21 (0%)<br />
+      Events: 1910 (27%)<br />Daily Activity: 1480 (21%)<br />Spiral Abyss: 1200
+      (17%)<br />Adventure: 1014 (15%)<br />Mail: 720 (10%)<br />Quests: 700
+      (9%)<br />Other: 126 (1%)<br />
     </td>
   </tr>
 </table>
