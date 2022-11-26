@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 26, 2022 01:25 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 26, 2022 08:42 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       Nahida (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Yae Miko (12)<br />
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        ,
+        height="18"
+      />
+      Yoimiya (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>7150 (rate -30)</td>
+    <td>7450 (rate -27)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>6721246 (rate -30)</td>
+    <td>6771246 (rate -30)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1910 (27%)<br />Daily Activity: 1480 (21%)<br />Spiral Abyss: 1200
-      (17%)<br />Adventure: 1014 (15%)<br />Mail: 720 (10%)<br />Quests: 700
+      Events: 1910 (26%)<br />Daily Activity: 1480 (20%)<br />Spiral Abyss: 1200
+      (17%)<br />Mail: 1020 (14%)<br />Adventure: 1014 (13%)<br />Quests: 700
       (9%)<br />Other: 126 (1%)<br />
     </td>
   </tr>
