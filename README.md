@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 27, 2022 19:36 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 28, 2022 01:24 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
       Yoimiya (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nahida (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br />
+      Nahida (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>7450 (rate -27)</td>
+    <td>7510 (rate -26)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>6771246 (rate -30)</td>
+    <td>6811721 (rate -29)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1910 (26%)<br />Daily Activity: 1480 (20%)<br />Spiral Abyss: 1200
-      (17%)<br />Mail: 1020 (14%)<br />Adventure: 1014 (13%)<br />Quests: 700
+      Events: 1910 (26%)<br />Daily Activity: 1540 (21%)<br />Spiral Abyss: 1200
+      (16%)<br />Mail: 1020 (14%)<br />Adventure: 1014 (13%)<br />Quests: 700
       (9%)<br />Other: 126 (1%)<br />
     </td>
   </tr>
@@ -3012,6 +3012,123 @@
   </table>
 </details>
 <details>
+  <summary><b>Amber</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Amber</h3></th>
+      <th><h3 align="center">Blackcliff Warbow</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Blackrock.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />1 x Gladiator's Finale<br />1 x Wanderer's
+              Troupe<br />1 x Shimenawa's Reminiscence<br />2 x Heart of
+              Depth<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_4.png"
+                ,
+                height="18"
+              />
+              Gladiator's Nostalgia<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_2.png"
+                ,
+                height="18"
+              />
+              Bard's Arrow Feather<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_5.png"
+                ,
+                height="18"
+              />
+              Morning Dew's Moment<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_1.png"
+                ,
+                height="18"
+              />
+              Goblet of Thundering Deep<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_3.png"
+                ,
+                height="18"
+              />
+              Wine-Stained Tricorne<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td>100% Outrider</td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Blackcliff Warbow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Sucrose</b></summary>
   <br />
   <table>
@@ -3237,123 +3354,6 @@
           <tr>
             <td>Refinement</td>
             <td>5</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Amber</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Amber</h3></th>
-      <th><h3 align="center">Blackcliff Warbow</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ambor.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Blackrock.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png"
-                ,
-                height="18"
-              />
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>9</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />1 x Gladiator's Finale<br />1 x Wanderer's
-              Troupe<br />1 x Shimenawa's Reminiscence<br />2 x Heart of
-              Depth<br />
-            </td>
-            <td>
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_4.png"
-                ,
-                height="18"
-              />
-              Gladiator's Nostalgia<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_2.png"
-                ,
-                height="18"
-              />
-              Bard's Arrow Feather<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_5.png"
-                ,
-                height="18"
-              />
-              Morning Dew's Moment<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_1.png"
-                ,
-                height="18"
-              />
-              Goblet of Thundering Deep<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15016_3.png"
-                ,
-                height="18"
-              />
-              Wine-Stained Tricorne<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td>100% Outrider</td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Blackcliff Warbow</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
           </tr>
         </table>
       </td>
@@ -4142,7 +4142,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Constellation</td>
