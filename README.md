@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 28, 2022 01:24 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 28, 2022 08:46 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -352,16 +352,16 @@
         height="18"
       />
       Yoimiya (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nahida (12)<br />
+      Nahida (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>7510 (rate -26)</td>
+    <td>7525 (rate -26)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>6811721 (rate -29)</td>
+    <td>6813229 (rate -29)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Events: 1910 (26%)<br />Daily Activity: 1540 (21%)<br />Spiral Abyss: 1200
-      (16%)<br />Mail: 1020 (14%)<br />Adventure: 1014 (13%)<br />Quests: 700
+      (16%)<br />Adventure: 1029 (14%)<br />Mail: 1020 (13%)<br />Quests: 700
       (9%)<br />Other: 126 (1%)<br />
     </td>
   </tr>
