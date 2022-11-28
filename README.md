@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 28, 2022 08:46 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 28, 2022 13:26 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>608</td>
+    <td>609</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>350</td>
+    <td>351</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -342,6 +342,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -352,16 +357,11 @@
         height="18"
       />
       Yoimiya (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Nahida (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (12)<br />
+      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
