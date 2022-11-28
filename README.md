@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 28, 2022 19:39 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 29, 2022 01:26 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -347,21 +347,21 @@
         height="18"
       />
       Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
-      Yae Miko (12)<br />
+      Yoimiya (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>7525 (rate -26)</td>
+    <td>7835 (rate -23)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>6813229 (rate -29)</td>
+    <td>7003543 (rate -27)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1910 (26%)<br />Daily Activity: 1540 (21%)<br />Spiral Abyss: 1200
-      (16%)<br />Adventure: 1029 (14%)<br />Mail: 1020 (13%)<br />Quests: 700
-      (9%)<br />Other: 126 (1%)<br />
+      Events: 1950 (25%)<br />Daily Activity: 1600 (21%)<br />Spiral Abyss: 1200
+      (16%)<br />Adventure: 1029 (13%)<br />Mail: 1020 (13%)<br />Quests: 700
+      (8%)<br />Other: 336 (4%)<br />
     </td>
   </tr>
 </table>
@@ -2941,7 +2941,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Constellation</td>
