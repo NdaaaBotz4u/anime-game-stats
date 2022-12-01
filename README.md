@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 01, 2022 01:26 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 01, 2022 09:00 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>609</td>
+    <td>611</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>521</td>
+    <td>522</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -342,11 +342,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
-        ,
-        height="18"
-      />
-      Yoimiya (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -357,6 +352,11 @@
         height="18"
       />
       Yae Miko (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
