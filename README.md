@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 05, 2022 08:39 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 05, 2022 13:24 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -342,6 +342,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -352,16 +357,11 @@
         height="18"
       />
       Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
-        ,
-        height="18"
-      />
-      Yoimiya (12)<br />
+      Yelan (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>1182 (rate -85)</td>
+    <td>1602 (rate -80)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>900213 (rate -87)</td>
+    <td>1171410 (rate -83)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (51%)<br />Mail: 420 (36%)<br />Daily Activity: 100
-      (9%)<br />Events: 40 (3%)<br />Adventure: 22 (1%)<br />Quests: 0 (0%)<br />Other:
-      0 (0%)<br />
+      Spiral Abyss: 600 (38%)<br />Mail: 420 (27%)<br />Daily Activity: 300
+      (18%)<br />Events: 260 (16%)<br />Adventure: 22 (1%)<br />Quests: 0
+      (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -2941,7 +2941,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Constellation</td>
