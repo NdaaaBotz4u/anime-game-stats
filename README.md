@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 05, 2022 01:22 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 05, 2022 08:39 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>611</td>
+    <td>612</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>525</td>
+    <td>527</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1772</td>
+    <td>1773</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -179,7 +179,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
       </table>
     </td>
@@ -342,16 +342,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -361,7 +351,17 @@
         ,
         height="18"
       />
-      Yae Miko (12)<br />
+      Yae Miko (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        ,
+        height="18"
+      />
+      Yoimiya (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>740 (rate -90)</td>
+    <td>1182 (rate -85)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>712353 (rate -90)</td>
+    <td>900213 (rate -87)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (82%)<br />Daily Activity: 100 (13%)<br />Events: 40
-      (5%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Mail: 0 (0%)<br />Other:
+      Spiral Abyss: 600 (51%)<br />Mail: 420 (36%)<br />Daily Activity: 100
+      (9%)<br />Events: 40 (3%)<br />Adventure: 22 (1%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
