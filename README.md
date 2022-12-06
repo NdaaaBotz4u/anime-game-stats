@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 06, 2022 13:24 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 06, 2022 19:39 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>527</td>
+    <td>528</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br />
+      Yae Miko (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>1894 (rate -76)</td>
+    <td>1954 (rate -76)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>1215617 (rate -83)</td>
+    <td>1269284 (rate -82)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 660 (35%)<br />Spiral Abyss: 600 (32%)<br />Daily Activity: 300
-      (16%)<br />Events: 260 (14%)<br />Adventure: 74 (3%)<br />Quests: 0
+      Mail: 660 (34%)<br />Spiral Abyss: 600 (31%)<br />Daily Activity: 360
+      (19%)<br />Events: 260 (13%)<br />Adventure: 74 (3%)<br />Quests: 0
       (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
