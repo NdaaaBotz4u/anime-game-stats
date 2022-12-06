@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 06, 2022 01:24 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 06, 2022 08:37 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>612</td>
+    <td>613</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -59,11 +59,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1773</td>
+    <td>1784</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1140</td>
+    <td>1141</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>103</td>
+    <td>104</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -342,11 +342,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
-        ,
-        height="18"
-      />
-      Yoimiya (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -357,6 +352,11 @@
         height="18"
       />
       Nahida (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>1602 (rate -80)</td>
+    <td>1894 (rate -76)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>1171410 (rate -83)</td>
+    <td>1215617 (rate -83)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 600 (38%)<br />Mail: 420 (27%)<br />Daily Activity: 300
-      (18%)<br />Events: 260 (16%)<br />Adventure: 22 (1%)<br />Quests: 0
+      Mail: 660 (35%)<br />Spiral Abyss: 600 (32%)<br />Daily Activity: 300
+      (16%)<br />Events: 260 (14%)<br />Adventure: 74 (3%)<br />Quests: 0
       (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
