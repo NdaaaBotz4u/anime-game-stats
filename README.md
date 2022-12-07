@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 07, 2022 13:25 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 07, 2022 19:36 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -342,16 +342,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Yae (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
+      Nahida (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -361,7 +356,12 @@
         ,
         height="18"
       />
-      Yoimiya (12)<br />
+      Yoimiya (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>2927 (rate -64)</td>
+    <td>3170 (rate -61)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>1496190 (rate -79)</td>
+    <td>1675329 (rate -76)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1460 (50%)<br />Spiral Abyss: 600 (21%)<br />Daily Activity: 420
-      (15%)<br />Events: 280 (9%)<br />Adventure: 167 (5%)<br />Quests: 0
-      (0%)<br />Other: 0 (0%)<br />
+      Mail: 1460 (47%)<br />Spiral Abyss: 600 (19%)<br />Daily Activity: 420
+      (14%)<br />Events: 340 (10%)<br />Adventure: 227 (7%)<br />Quests: 120
+      (3%)<br />Other: 3 (0%)<br />
     </td>
   </tr>
 </table>
@@ -987,7 +987,7 @@
           <tr>
             <td>
               Artifacts<br />2 x Shimenawa's Reminiscence<br />2 x Gladiator's
-              Finale<br />1 x Wanderer's Troupe<br />
+              Finale<br />1 x Thundering Fury<br />
             </td>
             <td>
               <img
@@ -1011,11 +1011,11 @@
                 height="18"
               />
               Gladiator's Intoxication<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_3.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15005_3.png"
                 ,
                 height="18"
               />
-              Conductor's Top Hat<br />
+              Thunder Summoner's Crown<br />
             </td>
           </tr>
           <tr>
@@ -1304,8 +1304,7 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />4 x Viridescent Venerer<br />1 x Shimenawa's
-              Reminiscence<br />
+              Artifacts<br />4 x Viridescent Venerer<br />1 x Gilded Dreams<br />
             </td>
             <td>
               <img
@@ -1319,11 +1318,11 @@
                 height="18"
               />
               Viridescent Arrow Feather<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_5.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_5.png"
                 ,
                 height="18"
               />
-              Morning Dew's Moment<br /><img
+              The Sunken Years<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_1.png"
                 ,
                 height="18"
@@ -1416,7 +1415,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>2</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>
@@ -1651,8 +1650,8 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Wanderer's Troupe<br />3 x Gladiator's
-              Finale<br />1 x Thundering Fury<br />
+              Artifacts<br />2 x Wanderer's Troupe<br />3 x Gladiator's
+              Finale<br />
             </td>
             <td>
               <img
@@ -1676,11 +1675,11 @@
                 height="18"
               />
               Gladiator's Intoxication<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15005_3.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_3.png"
                 ,
                 height="18"
               />
-              Thunder Summoner's Crown<br />
+              Conductor's Top Hat<br />
             </td>
           </tr>
           <tr>
@@ -2244,6 +2243,122 @@
   </table>
 </details>
 <details>
+  <summary><b>Wanderer</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Wanderer</h3></th>
+      <th><h3 align="center">The Widsith</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Troupe.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.png"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />2 x Viridescent Venerer<br />2 x Gladiator's
+              Finale<br />1 x Wanderer's Troupe<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_4.png"
+                ,
+                height="18"
+              />
+              In Remembrance of Viridescent Fields<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_2.png"
+                ,
+                height="18"
+              />
+              Gladiator's Destiny<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
+                ,
+                height="18"
+              />
+              Gladiator's Longing<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_1.png"
+                ,
+                height="18"
+              />
+              Viridescent Venerer's Vessel<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_3.png"
+                ,
+                height="18"
+              />
+              Conductor's Top Hat<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>The Widsith</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Traveler</b></summary>
   <br />
   <table>
@@ -2278,7 +2393,7 @@
             <td>Element</td>
             <td>
               <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.png"
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.png"
                 ,
                 height="18"
               />
@@ -2842,7 +2957,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Artifacts<br />3 x Crimson Witch of Flames<br /></td>
@@ -3066,17 +3181,11 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Gladiator's Finale<br />1 x Wanderer's
-              Troupe<br />1 x Shimenawa's Reminiscence<br />2 x Heart of
-              Depth<br />
+              Artifacts<br />1 x Wanderer's Troupe<br />1 x Shimenawa's
+              Reminiscence<br />2 x Heart of Depth<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_4.png"
-                ,
-                height="18"
-              />
-              Gladiator's Nostalgia<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_2.png"
                 ,
                 height="18"
@@ -3299,8 +3408,9 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />3 x Viridescent Venerer<br />1 x Emblem of Severed
-              Fate<br />1 x Shimenawa's Reminiscence<br />
+              Artifacts<br />2 x Viridescent Venerer<br />1 x Emblem of Severed
+              Fate<br />1 x Crimson Witch of Flames<br />1 x Shimenawa's
+              Reminiscence<br />
             </td>
             <td>
               <img
@@ -3319,11 +3429,11 @@
                 height="18"
               />
               Storm Cage<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_1.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15006_1.png"
                 ,
                 height="18"
               />
-              Viridescent Venerer's Vessel<br /><img
+              Witch's Heart Flames<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15019_3.png"
                 ,
                 height="18"
@@ -4703,6 +4813,92 @@
           <tr>
             <td>Refinement</td>
             <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Gorou</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Gorou</h3></th>
+      <th><h3 align="center">Hunter's Bow</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Gorou.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.png"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Hunter's Bow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
