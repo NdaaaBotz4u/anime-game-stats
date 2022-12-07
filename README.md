@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 07, 2022 08:43 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 07, 2022 13:25 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,15 +27,15 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>613</td>
+    <td>615</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>528</td>
+    <td>529</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>41</td>
+    <td>43</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -59,11 +59,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1786</td>
+    <td>1803</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1142</td>
+    <td>1151</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -188,7 +188,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/96/" width="80" />
+            <img src="https://progress-bar.dev/100/" width="80" />
           </td>
         </tr>
         <tr>
@@ -230,7 +230,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/97/" width="80" />
+            <img src="https://progress-bar.dev/99/" width="80" />
           </td>
         </tr>
         <tr>
@@ -346,7 +346,7 @@
         ,
         height="18"
       />
-      Yae Miko (12)<br /><img
+      Yae (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
@@ -356,7 +356,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br /><img
+      Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
@@ -372,7 +372,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (37)<br />
+      Shougun (37)<br />
     </td>
   </tr>
   <tr>
@@ -383,7 +383,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (108887)<br />
+      Shougun (108887)<br />
     </td>
   </tr>
   <tr>
@@ -394,7 +394,7 @@
         ,
         height="18"
       />
-      Yae Miko (43870)<br />
+      Yae (43870)<br />
     </td>
   </tr>
   <tr>
@@ -416,7 +416,7 @@
         ,
         height="18"
       />
-      Yae Miko (114)<br />
+      Yae (114)<br />
     </td>
   </tr>
 </table>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>2237 (rate -72)</td>
+    <td>2927 (rate -64)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>1335910 (rate -81)</td>
+    <td>1496190 (rate -79)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 860 (39%)<br />Spiral Abyss: 600 (27%)<br />Daily Activity: 360
-      (16%)<br />Events: 260 (11%)<br />Adventure: 157 (7%)<br />Quests: 0
+      Mail: 1460 (50%)<br />Spiral Abyss: 600 (21%)<br />Daily Activity: 420
+      (15%)<br />Events: 280 (9%)<br />Adventure: 167 (5%)<br />Quests: 0
       (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
@@ -2278,7 +2278,7 @@
             <td>Element</td>
             <td>
               <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.png"
+                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.png"
                 ,
                 height="18"
               />
