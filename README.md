@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 07, 2022 01:24 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 07, 2022 08:43 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -59,11 +59,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1784</td>
+    <td>1786</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1141</td>
+    <td>1142</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
       Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Nahida (12)<br /><img
+      Kaedehara Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
-      Yoimiya (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br />
+      Yoimiya (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>1954 (rate -76)</td>
+    <td>2237 (rate -72)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>1269284 (rate -82)</td>
+    <td>1335910 (rate -81)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 660 (34%)<br />Spiral Abyss: 600 (31%)<br />Daily Activity: 360
-      (19%)<br />Events: 260 (13%)<br />Adventure: 74 (3%)<br />Quests: 0
+      Mail: 860 (39%)<br />Spiral Abyss: 600 (27%)<br />Daily Activity: 360
+      (16%)<br />Events: 260 (11%)<br />Adventure: 157 (7%)<br />Quests: 0
       (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
