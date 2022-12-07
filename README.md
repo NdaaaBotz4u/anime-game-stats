@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 07, 2022 19:36 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 08, 2022 01:24 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>615</td>
+    <td>621</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -59,15 +59,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1803</td>
+    <td>1807</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1151</td>
+    <td>1152</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>351</td>
+    <td>353</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Shougun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
       Nahida (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        ,
+        height="18"
+      />
+      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
-        ,
-        height="18"
-      />
-      Yoimiya (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae (12)<br />
+      Kazuha (12)<br />
     </td>
   </tr>
   <tr>
@@ -2297,31 +2297,31 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Viridescent Venerer<br />2 x Gladiator's
+              Artifacts<br />2 x Desert Pavilion Chronicle<br />2 x Gladiator's
               Finale<br />1 x Wanderer's Troupe<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_4.png"
                 ,
                 height="18"
               />
-              In Remembrance of Viridescent Fields<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_2.png"
+              The First Days of the City of Kings<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15027_2.png"
                 ,
                 height="18"
               />
-              Gladiator's Destiny<br /><img
+              End of the Golden Realm<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_5.png"
                 ,
                 height="18"
               />
               Gladiator's Longing<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15002_1.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15001_1.png"
                 ,
                 height="18"
               />
-              Viridescent Venerer's Vessel<br /><img
+              Gladiator's Intoxication<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_3.png"
                 ,
                 height="18"
@@ -2799,7 +2799,7 @@
   <table>
     <tr>
       <th><h3 align="center">Mona</h3></th>
-      <th><h3 align="center">Oathsworn Eye</h3></th>
+      <th><h3 align="center">Thrilling Tales of Dragon Slayers</h3></th>
     </tr>
     <tr>
       <td>
@@ -2812,7 +2812,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Jyanome.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Pulpfic.png"
           />
         </p>
       </td>
@@ -2887,11 +2887,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Oathsworn Eye</td>
+            <td>Thrilling Tales of Dragon Slayers</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>★★★★</td>
+            <td>★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -4252,7 +4252,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>5</td>
+            <td>6</td>
           </tr>
           <tr>
             <td>Constellation</td>
