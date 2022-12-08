@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 08, 2022 01:24 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 08, 2022 08:39 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>529</td>
+    <td>530</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>353</td>
+    <td>354</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -347,21 +347,21 @@
         height="18"
       />
       Shougun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Nahida (12)<br /><img
+      Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
       Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
-      Kazuha (12)<br />
+      Yoimiya (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>3170 (rate -61)</td>
+    <td>3295 (rate -59)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>1675329 (rate -76)</td>
+    <td>1737495 (rate -76)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1460 (47%)<br />Spiral Abyss: 600 (19%)<br />Daily Activity: 420
-      (14%)<br />Events: 340 (10%)<br />Adventure: 227 (7%)<br />Quests: 120
+      Mail: 1520 (47%)<br />Spiral Abyss: 600 (19%)<br />Daily Activity: 480
+      (14%)<br />Events: 340 (10%)<br />Adventure: 232 (7%)<br />Quests: 120
       (3%)<br />Other: 3 (0%)<br />
     </td>
   </tr>
