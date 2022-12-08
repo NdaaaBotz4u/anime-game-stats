@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 08, 2022 13:25 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 08, 2022 19:37 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
-      Shougun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+      Yoimiya (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Nahida (12)<br /><img
+      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Yae (12)<br /><img
+      Yae Miko (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kazuha (12)<br />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
@@ -372,7 +372,7 @@
         ,
         height="18"
       />
-      Shougun (37)<br />
+      Raiden Shogun (37)<br />
     </td>
   </tr>
   <tr>
@@ -383,7 +383,7 @@
         ,
         height="18"
       />
-      Shougun (108887)<br />
+      Raiden Shogun (108887)<br />
     </td>
   </tr>
   <tr>
@@ -394,7 +394,7 @@
         ,
         height="18"
       />
-      Yae (43870)<br />
+      Yae Miko (43870)<br />
     </td>
   </tr>
   <tr>
@@ -416,7 +416,7 @@
         ,
         height="18"
       />
-      Yae (114)<br />
+      Yae Miko (114)<br />
     </td>
   </tr>
 </table>
