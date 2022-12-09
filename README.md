@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 09, 2022 19:35 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 10, 2022 01:23 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
-      Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+      Yoimiya (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yelan (12)<br /><img
+      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Yae Miko (12)<br />
     </td>
   </tr>
   <tr>
@@ -2480,7 +2480,7 @@
   <table>
     <tr>
       <th><h3 align="center">Fischl</h3></th>
-      <th><h3 align="center">Prototype Crescent</h3></th>
+      <th><h3 align="center">The Stringless</h3></th>
     </tr>
     <tr>
       <td>
@@ -2493,7 +2493,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Proto.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
           />
         </p>
       </td>
@@ -2529,36 +2529,36 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Archaic Petra<br />2 x Wanderer's Troupe<br />1
-              x Emblem of Severed Fate<br />1 x Lavawalker<br />
+              Artifacts<br />2 x Gilded Dreams<br />2 x Thundering Fury<br />1 x
+              Lavawalker<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15014_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_4.png"
                 ,
                 height="18"
               />
-              Flower of Creviced Cliff<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_2.png"
+              Dreaming Steelbloom<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_2.png"
                 ,
                 height="18"
               />
-              Bard's Arrow Feather<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_5.png"
+              Feather of Judgment<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15005_5.png"
                 ,
                 height="18"
               />
-              Concert's Final Hour<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_1.png"
+              Hourglass of Thunder<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14003_1.png"
                 ,
                 height="18"
               />
-              Scarlet Vessel<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_14003_3.png"
+              Lavawalker's Epiphany<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15005_3.png"
                 ,
                 height="18"
               />
-              Lavawalker's Wisdom<br />
+              Thunder Summoner's Crown<br />
             </td>
           </tr>
           <tr>
@@ -2571,7 +2571,7 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Prototype Crescent</td>
+            <td>The Stringless</td>
           </tr>
           <tr>
             <td>Rarity</td>
@@ -2579,11 +2579,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>70</td>
+            <td>80</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
@@ -4895,6 +4895,92 @@
           <tr>
             <td>Level</td>
             <td>20</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Faruzan</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Faruzan</h3></th>
+      <th><h3 align="center">Favonius Warbow</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Faruzan.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/anemo_35.png"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>20</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Favonius Warbow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
           </tr>
           <tr>
             <td>Refinement</td>
