@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 09, 2022 13:24 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 09, 2022 19:35 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>Characters</td>
-    <td>43</td>
+    <td>44</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -357,11 +357,11 @@
         height="18"
       />
       Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yoimiya (12)<br />
+      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>3357 (rate -58)</td>
+    <td>3477 (rate -57)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>1809647 (rate -75)</td>
+    <td>1889730 (rate -74)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1520 (46%)<br />Spiral Abyss: 600 (18%)<br />Daily Activity: 540
-      (17%)<br />Events: 340 (10%)<br />Adventure: 234 (6%)<br />Quests: 120
+      Mail: 1520 (44%)<br />Spiral Abyss: 600 (18%)<br />Daily Activity: 540
+      (16%)<br />Events: 460 (13%)<br />Adventure: 234 (6%)<br />Quests: 120
       (3%)<br />Other: 3 (0%)<br />
     </td>
   </tr>
