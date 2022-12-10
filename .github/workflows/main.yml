@@ -34,7 +34,7 @@ jobs:
         run: |
           git diff
           git config user.name "MhankBarBar"
-          git config user.email "mhankbarbar@proton.me"
+          git config user.email "mhankbarbar@pm.me"
           git add README.md
           git commit -asm "Joy's Genshin Impact stats"
           git push
