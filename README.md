@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 10, 2022 19:34 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 11, 2022 01:22 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>531</td>
+    <td>532</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -302,7 +302,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1114</td>
+    <td>1127</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -347,21 +347,21 @@
         height="18"
       />
       Nahida (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
-        ,
-        height="18"
-      />
-      Yoimiya (12)<br />
+      Yelan (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>3677 (rate -54)</td>
+    <td>3738 (rate -54)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>1889770 (rate -74)</td>
+    <td>1972600 (rate -72)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1720 (47%)<br />Spiral Abyss: 600 (17%)<br />Daily Activity: 540
-      (15%)<br />Events: 460 (12%)<br />Adventure: 234 (6%)<br />Quests: 120
-      (3%)<br />Other: 3 (0%)<br />
+      Mail: 1720 (47%)<br />Daily Activity: 600 (16%)<br />Spiral Abyss: 600
+      (16%)<br />Events: 460 (12%)<br />Adventure: 234 (6%)<br />Quests: 120
+      (3%)<br />Other: 4 (0%)<br />
     </td>
   </tr>
 </table>
