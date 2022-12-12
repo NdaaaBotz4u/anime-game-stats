@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 12, 2022 08:42 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 12, 2022 13:25 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>533</td>
+    <td>534</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,15 +59,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1813</td>
+    <td>1825</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1152</td>
+    <td>1157</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>354</td>
+    <td>357</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -174,7 +174,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/62/" width="80" />
+            <img src="https://progress-bar.dev/64/" width="80" />
           </td>
         </tr>
         <tr>
@@ -352,11 +352,11 @@
         height="18"
       />
       Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Yoimiya (12)<br /><img
+      Kaedehara Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>4348 (rate -46)</td>
+    <td>4487 (rate -45)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>2118221 (rate -70)</td>
+    <td>2205808 (rate -69)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2140 (50%)<br />Daily Activity: 660 (16%)<br />Spiral Abyss: 600
-      (14%)<br />Events: 580 (13%)<br />Adventure: 244 (5%)<br />Quests: 120
+      Mail: 2140 (48%)<br />Daily Activity: 720 (17%)<br />Spiral Abyss: 600
+      (14%)<br />Events: 580 (12%)<br />Adventure: 323 (7%)<br />Quests: 120
       (2%)<br />Other: 4 (0%)<br />
     </td>
   </tr>
