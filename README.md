@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 13, 2022 19:37 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 14, 2022 01:23 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -342,16 +342,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -361,7 +351,17 @@
         ,
         height="18"
       />
-      Nahida (12)<br />
+      Nahida (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      Yae Miko (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br />
     </td>
   </tr>
   <tr>
