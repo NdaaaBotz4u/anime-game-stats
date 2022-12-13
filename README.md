@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 13, 2022 13:25 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 13, 2022 19:37 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Nahida (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (12)<br /><img
+      Kaedehara Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
       Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yoimiya (12)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (12)<br />
     </td>
   </tr>
   <tr>
@@ -523,15 +523,15 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Wanderer's Troupe<br />4 x Deepwood Memories<br />
+              Artifacts<br />1 x Gilded Dreams<br />4 x Deepwood Memories<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15003_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_4.png"
                 ,
                 height="18"
               />
-              Troupe's Dawnlight<br /><img
+              Dreaming Steelbloom<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_2.png"
                 ,
                 height="18"
@@ -2529,16 +2529,16 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Gilded Dreams<br />2 x Thundering Fury<br />1 x
-              Lavawalker<br />
+              Artifacts<br />1 x Deepwood Memories<br />1 x Gilded Dreams<br />2
+              x Thundering Fury<br />1 x Lavawalker<br />
             </td>
             <td>
               <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_4.png"
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15025_4.png"
                 ,
                 height="18"
               />
-              Dreaming Steelbloom<br /><img
+              Labyrinth Wayfarer<br /><img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_2.png"
                 ,
                 height="18"
