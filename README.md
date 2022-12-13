@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 13, 2022 01:24 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 13, 2022 08:44 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -27,11 +27,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>622</td>
+    <td>629</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>534</td>
+    <td>535</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,15 +59,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1830</td>
+    <td>1878</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1160</td>
+    <td>1171</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>359</td>
+    <td>361</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>105</td>
+    <td>109</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -174,7 +174,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/64/" width="80" />
+            <img src="https://progress-bar.dev/69/" width="80" />
           </td>
         </tr>
         <tr>
@@ -342,26 +342,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
       Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yoimiya (12)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>4492 (rate -45)</td>
+    <td>5091 (rate -37)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>2207370 (rate -69)</td>
+    <td>2520841 (rate -65)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2140 (48%)<br />Daily Activity: 720 (17%)<br />Spiral Abyss: 600
-      (14%)<br />Events: 580 (12%)<br />Adventure: 328 (7%)<br />Quests: 120
+      Mail: 2340 (46%)<br />Daily Activity: 780 (16%)<br />Adventure: 667
+      (14%)<br />Spiral Abyss: 600 (11%)<br />Events: 580 (11%)<br />Quests: 120
       (2%)<br />Other: 4 (0%)<br />
     </td>
   </tr>
@@ -4103,6 +4103,104 @@
   </table>
 </details>
 <details>
+  <summary><b>Layla</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Layla</h3></th>
+      <th><h3 align="center">Favonius Sword</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Layla.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>21</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts<br />2 x Tenacity of the Millelith<br /></td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_4.png"
+                ,
+                height="18"
+              />
+              Flower of Accolades<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_2.png"
+                ,
+                height="18"
+              />
+              Ceremonial War-Plume<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Favonius Sword</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Yun Jin</b></summary>
   <br />
   <table>
@@ -4199,104 +4297,6 @@
           <tr>
             <td>Refinement</td>
             <td>3</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Layla</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Layla</h3></th>
-      <th><h3 align="center">Favonius Sword</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Layla.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.png"
-                ,
-                height="18"
-              />
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>20</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>6</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts<br />2 x Tenacity of the Millelith<br /></td>
-            <td>
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_4.png"
-                ,
-                height="18"
-              />
-              Flower of Accolades<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15017_2.png"
-                ,
-                height="18"
-              />
-              Ceremonial War-Plume<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Favonius Sword</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>5</td>
           </tr>
         </table>
       </td>
