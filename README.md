@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 14, 2022 01:23 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 14, 2022 08:41 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -342,11 +342,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -357,11 +352,16 @@
         height="18"
       />
       Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (12)<br />
+      Yoimiya (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>5291 (rate -35)</td>
+    <td>5311 (rate -34)</td>
   </tr>
   <tr>
     <td>
@@ -453,7 +453,7 @@
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2340 (45%)<br />Daily Activity: 780 (15%)<br />Events: 760 (15%)<br />Adventure:
+      Mail: 2340 (45%)<br />Events: 780 (15%)<br />Daily Activity: 780 (15%)<br />Adventure:
       687 (12%)<br />Spiral Abyss: 600 (11%)<br />Quests: 120 (2%)<br />Other: 4
       (0%)<br />
     </td>
