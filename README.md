@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 14, 2022 08:41 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 14, 2022 13:25 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>535</td>
+    <td>536</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,19 +59,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1878</td>
+    <td>1915</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1171</td>
+    <td>1199</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>361</td>
+    <td>364</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>147</td>
+    <td>148</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -258,7 +258,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/88/" width="80" />
+            <img src="https://progress-bar.dev/92/" width="80" />
           </td>
         </tr>
         <tr>
@@ -298,7 +298,7 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Luxury (15880)</td>
+    <td>Luxury (15940)</td>
   </tr>
   <tr>
     <td>Items</td>
@@ -342,16 +342,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
         ,
         height="18"
       />
-      Nahida (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
+      Yelan (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Yae Miko (12)<br /><img
+      Kaedehara Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>5311 (rate -34)</td>
+    <td>5371 (rate -34)</td>
   </tr>
   <tr>
     <td>
@@ -448,12 +448,12 @@
       />
       Mora earned
     </td>
-    <td>2649339 (rate -63)</td>
+    <td>2697180 (rate -62)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2340 (45%)<br />Events: 780 (15%)<br />Daily Activity: 780 (15%)<br />Adventure:
+      Mail: 2340 (44%)<br />Daily Activity: 840 (16%)<br />Events: 780 (15%)<br />Adventure:
       687 (12%)<br />Spiral Abyss: 600 (11%)<br />Quests: 120 (2%)<br />Other: 4
       (0%)<br />
     </td>
