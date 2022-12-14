@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 14, 2022 13:25 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 14, 2022 19:37 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -347,11 +347,6 @@
         height="18"
       />
       Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      Kaedehara Kazuha (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
@@ -361,7 +356,12 @@
         ,
         height="18"
       />
-      Raiden Shogun (12)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>5371 (rate -34)</td>
+    <td>5574 (rate -31)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>2697180 (rate -62)</td>
+    <td>2796794 (rate -61)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2340 (44%)<br />Daily Activity: 840 (16%)<br />Events: 780 (15%)<br />Adventure:
-      687 (12%)<br />Spiral Abyss: 600 (11%)<br />Quests: 120 (2%)<br />Other: 4
-      (0%)<br />
+      Mail: 2340 (42%)<br />Adventure: 890 (16%)<br />Daily Activity: 840
+      (16%)<br />Events: 780 (14%)<br />Spiral Abyss: 600 (10%)<br />Quests: 120
+      (2%)<br />Other: 4 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1527,7 +1527,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -2049,6 +2049,122 @@
   </table>
 </details>
 <details>
+  <summary><b>Bennett</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Bennett</h3></th>
+      <th><h3 align="center">Aquila Favonia</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png"
+                ,
+                height="18"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>
+              Artifacts<br />3 x Noblesse Oblige<br />2 x Emblem of Severed
+              Fate<br />
+            </td>
+            <td>
+              <img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_4.png"
+                ,
+                height="18"
+              />
+              Royal Flora<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_2.png"
+                ,
+                height="18"
+              />
+              Royal Plume<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_5.png"
+                ,
+                height="18"
+              />
+              Royal Pocket Watch<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_1.png"
+                ,
+                height="18"
+              />
+              Scarlet Vessel<br /><img
+                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_3.png"
+                ,
+                height="18"
+              />
+              Ornate Kabuto<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Aquila Favonia</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>★★★★★</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Rosaria</b></summary>
   <br />
   <table>
@@ -2142,122 +2258,6 @@
           <tr>
             <td>Rarity</td>
             <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>80</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Bennett</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Bennett</h3></th>
-      <th><h3 align="center">Aquila Favonia</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Falcon.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>
-              <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.png"
-                ,
-                height="18"
-              />
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>80</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>9</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>
-              Artifacts<br />3 x Noblesse Oblige<br />2 x Emblem of Severed
-              Fate<br />
-            </td>
-            <td>
-              <img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_4.png"
-                ,
-                height="18"
-              />
-              Royal Flora<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_2.png"
-                ,
-                height="18"
-              />
-              Royal Plume<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15007_5.png"
-                ,
-                height="18"
-              />
-              Royal Pocket Watch<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_1.png"
-                ,
-                height="18"
-              />
-              Scarlet Vessel<br /><img
-                src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15020_3.png"
-                ,
-                height="18"
-              />
-              Ornate Kabuto<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Aquila Favonia</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>★★★★★</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -4149,7 +4149,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>6</td>
+            <td>7</td>
           </tr>
           <tr>
             <td>Constellation</td>
