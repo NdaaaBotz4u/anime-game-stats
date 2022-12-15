@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 15, 2022 01:23 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 15, 2022 08:43 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -342,6 +342,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        ,
+        height="18"
+      />
+      Yoimiya (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -351,17 +361,7 @@
         ,
         height="18"
       />
-      Nahida (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br />
+      Nahida (12)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>5574 (rate -31)</td>
+    <td>5639 (rate -30)</td>
   </tr>
   <tr>
     <td>
@@ -448,12 +448,12 @@
       />
       Mora earned
     </td>
-    <td>2796794 (rate -61)</td>
+    <td>2840817 (rate -60)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2340 (42%)<br />Adventure: 890 (16%)<br />Daily Activity: 840
+      Mail: 2340 (42%)<br />Daily Activity: 900 (16%)<br />Adventure: 895
       (16%)<br />Events: 780 (14%)<br />Spiral Abyss: 600 (10%)<br />Quests: 120
       (2%)<br />Other: 4 (0%)<br />
     </td>
