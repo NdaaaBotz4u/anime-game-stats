@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 16, 2022 19:33 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 17, 2022 01:22 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -320,15 +320,15 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>59</td>
+    <td>60</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>12</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -340,84 +340,27 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
-        ,
-        height="18"
-      />
-      Yelan (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
-        ,
-        height="18"
-      />
-      Yoimiya (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (37)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (108887)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (43870)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
-        ,
-        height="18"
-      />
-      Bennett (25)<br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      Yae Miko (114)<br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2>
@@ -437,7 +380,7 @@
       />
       Primogems earned
     </td>
-    <td>5969 (rate -26)</td>
+    <td>6629 (rate -18)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +391,13 @@
       />
       Mora earned
     </td>
-    <td>3347067 (rate -54)</td>
+    <td>3972117 (rate -45)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2340 (40%)<br />Events: 1080 (19%)<br />Daily Activity: 900 (15%)<br />Adventure:
-      895 (14%)<br />Spiral Abyss: 600 (10%)<br />Quests: 120 (2%)<br />Other:
+      Mail: 2340 (36%)<br />Spiral Abyss: 1200 (19%)<br />Events: 1080 (17%)<br />Daily
+      Activity: 960 (14%)<br />Adventure: 895 (13%)<br />Quests: 120 (1%)<br />Other:
       34 (0%)<br />
     </td>
   </tr>
