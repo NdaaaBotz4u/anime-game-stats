@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 17, 2022 08:26 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 17, 2022 13:21 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -347,6 +347,11 @@
         height="18"
       />
       Mona (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png"
+        ,
+        height="18"
+      />
+      Wanderer (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -356,12 +361,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (13)<br />
+      Raiden Shogun (13)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>6629 (rate -18)</td>
+    <td>7019 (rate -14)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>3972117 (rate -45)</td>
+    <td>4512174 (rate -38)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2340 (36%)<br />Spiral Abyss: 1200 (19%)<br />Events: 1080 (17%)<br />Daily
-      Activity: 960 (14%)<br />Adventure: 895 (13%)<br />Quests: 120 (1%)<br />Other:
-      34 (0%)<br />
+      Mail: 2340 (34%)<br />Events: 1380 (20%)<br />Spiral Abyss: 1200 (18%)<br />Daily
+      Activity: 1020 (15%)<br />Adventure: 895 (12%)<br />Quests: 120 (1%)<br />Other:
+      64 (0%)<br />
     </td>
   </tr>
 </table>
@@ -4612,7 +4612,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>2</td>
+            <td>3</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -4956,7 +4956,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td>1</td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
