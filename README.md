@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 17, 2022 19:32 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 18, 2022 01:21 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -302,7 +302,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1127</td>
+    <td>1129</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -352,16 +352,16 @@
         height="18"
       />
       Wanderer (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Bennett (13)<br />
+      Bennett (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (13)<br />
     </td>
   </tr>
   <tr>
@@ -448,7 +448,7 @@
       />
       Mora earned
     </td>
-    <td>4512174 (rate -38)</td>
+    <td>4537503 (rate -37)</td>
   </tr>
   <tr>
     <td>Categories</td>
