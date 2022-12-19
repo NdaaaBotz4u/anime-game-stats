@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 19, 2022 01:20 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 19, 2022 13:23 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>540</td>
+    <td>541</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -302,7 +302,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1129</td>
+    <td>1130</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -342,11 +342,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png"
         ,
         height="18"
@@ -361,7 +356,12 @@
         ,
         height="18"
       />
-      Raiden Shogun (13)<br />
+      Raiden Shogun (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (13)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>7099 (rate -13)</td>
+    <td>7489 (rate -8)</td>
   </tr>
   <tr>
     <td>
@@ -448,14 +448,14 @@
       />
       Mora earned
     </td>
-    <td>4598650 (rate -36)</td>
+    <td>5128125 (rate -29)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2360 (34%)<br />Events: 1380 (20%)<br />Spiral Abyss: 1200 (17%)<br />Daily
-      Activity: 1080 (16%)<br />Adventure: 895 (12%)<br />Quests: 120 (1%)<br />Other:
-      64 (0%)<br />
+      Mail: 2360 (32%)<br />Events: 1680 (23%)<br />Spiral Abyss: 1200 (17%)<br />Daily
+      Activity: 1140 (15%)<br />Adventure: 895 (11%)<br />Quests: 120 (1%)<br />Other:
+      94 (1%)<br />
     </td>
   </tr>
 </table>
@@ -1527,7 +1527,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -3163,7 +3163,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Constellation</td>
