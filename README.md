@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 19, 2022 19:36 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 20, 2022 01:23 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fisherman's Toast</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -302,7 +302,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>1130</td>
+    <td>1142</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -342,11 +342,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Wanderer (13)<br /><img
+      Nahida (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -357,11 +357,11 @@
         height="18"
       />
       Raiden Shogun (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
         ,
         height="18"
       />
-      Nahida (13)<br />
+      Mona (13)<br />
     </td>
   </tr>
   <tr>
@@ -448,7 +448,7 @@
       />
       Mora earned
     </td>
-    <td>5128125 (rate -29)</td>
+    <td>5160949 (rate -29)</td>
   </tr>
   <tr>
     <td>Categories</td>
