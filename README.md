@@ -1,6 +1,6 @@
 <h1 align="center">Joy's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 21, 2022 13:23 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 21, 2022 19:35 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>542</td>
+    <td>543</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1916</td>
+    <td>1918</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -258,7 +258,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/92/" width="80" />
+            <img src="https://progress-bar.dev/93/" width="80" />
           </td>
         </tr>
         <tr>
@@ -342,16 +342,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
-        ,
-        height="18"
-      />
-      Mona (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png"
-        ,
-        height="18"
-      />
-      Wanderer (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
@@ -361,7 +351,17 @@
         ,
         height="18"
       />
-      Raiden Shogun (13)<br />
+      Raiden Shogun (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        ,
+        height="18"
+      />
+      Mona (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (13)<br />
     </td>
   </tr>
   <tr>
@@ -437,7 +437,7 @@
       />
       Primogems earned
     </td>
-    <td>7573 (rate -7)</td>
+    <td>7613 (rate -6)</td>
   </tr>
   <tr>
     <td>
@@ -448,13 +448,13 @@
       />
       Mora earned
     </td>
-    <td>5226929 (rate -28)</td>
+    <td>5438758 (rate -25)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2360 (32%)<br />Events: 1680 (23%)<br />Daily Activity: 1220
-      (17%)<br />Spiral Abyss: 1200 (15%)<br />Adventure: 899 (11%)<br />Quests:
+      Mail: 2360 (31%)<br />Events: 1680 (23%)<br />Daily Activity: 1260
+      (17%)<br />Spiral Abyss: 1200 (16%)<br />Adventure: 899 (11%)<br />Quests:
       120 (1%)<br />Other: 94 (1%)<br />
     </td>
   </tr>
